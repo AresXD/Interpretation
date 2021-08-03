@@ -76,7 +76,7 @@
             class="word-class-tag"
             :color="wordBackgroundColor.gre"
             :disable-transitions="true"
-            >GRE词汇</el-tag
+            >上下文词汇</el-tag
           >
           <el-button
             type="primary"
