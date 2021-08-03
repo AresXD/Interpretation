@@ -25,7 +25,7 @@
             class="word-class-tag"
             :color="wordBackgroundColor.gre"
             :disable-transitions="true"
-            >GRE词汇</el-tag
+            >上下文词汇</el-tag
           >
         </div>
         <div class="typo" style="font-weight: bolder">
